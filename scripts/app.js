@@ -287,7 +287,7 @@ Game.setNewBitcoinRate = function (rate) {
 /**
  * This function will check if there is any change in the localStorage,
  * especially looking at the item amount. So it will actually calculate every price again and
- * again. (This function should be recoded)
+ * again.
  *
  * TODO: Find a better way for setting the price after an item was bought.
  */

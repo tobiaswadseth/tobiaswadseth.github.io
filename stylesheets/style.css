@@ -39,8 +39,7 @@ body{
     position: absolute;
     bottom: 5px;
     left: 5px;
-    width: 9%;
-    height: 4%;
+    padding: 10px;
     border: 3px solid black;
     font-size: 12pt;
     font-family: VCR OSD Mono, cursive;
