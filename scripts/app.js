@@ -383,7 +383,7 @@ Game.optimizeNumber = function () {
 
     var num = (this / ('1e' + (unit))).toFixed(2)
 
-    var unitname = Game.units[Math.floor(unit / 3) - 1]
+    var unitname = Game.units[Math.floor(unit / 3) - 2]
 
     return num + " " + unitname
   }
